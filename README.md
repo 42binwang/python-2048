@@ -1,5 +1,4 @@
 # python-2048
-=====================
 A little python-implemented 2048 with 200 lines code.
 
 Example：
